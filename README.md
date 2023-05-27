@@ -47,14 +47,8 @@ Le gérant peux aussi supprimer un client.
 
 
 - Mode client :
-Le client peux si il n'a pas de compte en crée un. Il peut ensuite se connecter à son espace client.
-une fois connecté il peux avoir accès à la liste de voitures en stock. Il peux aussi rechercher une voitures en entrant sa référence ou son nom puis achter le modèle dans la couleur choisi et en quantité choisi (dans la limite du nombre en stock).
-
-
-
-
-
-
+Le client peut s'il n'a pas de compte en crée un. Il peut ensuite se connecter à son espace client.
+Une fois connecté il peut avoir accès à la liste de voitures en stock. Il peut aussi rechercher une voiture en entrant sa référence ou son nom puis acheter le modèle dans la couleur choisie et en quantité choisie (dans la limite du nombre en stock).
 
 
 
