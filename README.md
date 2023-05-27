@@ -11,20 +11,24 @@ Nous avons décidé de réaliser un programme permettant de gérer le stock d'un
 
 ### Problèmes rencontrés
 
-- Nous avons eu du mal à créer une fonction qui permet de supprimer un client.
-
 - Nous avons rencontré des difficultés lors de l'écriture de la fonction d'achat.
 
 - Nous n'arrivons pas à classer en fonction de la couleur notre stock.
 
-- Nous avons rencontré un problème lors de la compilation de la fonction qui permet aux clients de voir le prix total leurs paniers d'achats. Nous avons finalement réussi à régler ce problème.
+- Nous avons rencontré un problème lors de la compilation de la fonction qui permet aux clients de voir le prix total leurs paniers d'achats.
+
+- Nous n'avons pas réussi à écrire la fonction permettant d'afficher la place restante en magasin.
+
+- L'historique d'achat fonctionne sur la session en cours mais pas sur les précédentes.
 
 ### Objectifs réussis
 
 - Nous avons réussi l'écriture du mode gestion. Nous avons créé un code qui permet au gérant d'accéder à son espace.
 - Le client peut créé un compte et le supprimer. Il peut également acheter des voitures et consulter son historique d'achat.
-- le client peut afficher le stock de voiture et chercher une voiture en entrant sa référence ou son nom.  
-
+- Le client peut afficher le stock de voiture et chercher une voiture en entrant sa référence ou son nom.  
+- Nous avons réussi à mettre une limite de stock pour chaque modèle existant mais aussi sur ceux ajoutés par le gérant.
+- Pour accéder à son espace le gérant doit entrer son mot de passe mais il a une limite de 3 tentatives. 
+- Le client dispose de 3 tentatives pour entrer le mot de passe correspondant à son compte, il s'affichera ensuite un message d'erreur.
 
 ### Instruction
 Sur le menu d'accueil :
