@@ -42,13 +42,15 @@ Il vous sera aussi demandé d'entrer vos informations (nom, prénom et mot de pa
 - Mode gérant :
 Pour se connecter en tant que gérant un mot de passe vous sera demandé. Le mot de passe du mode gérant est : 1234
 En tant que gérant vous pouvez avoir accès à la liste de voitures en stock, en supprimer si besoin ou même en ajouter.
-Le gérant peux aussi supprimer un client.
+Il peut aussi afficher les produits en rupture de stock.
+Le gérant peut aussi avoir accès à la liste des clients et supprimer un client.
 
 
 
 - Mode client :
 Le client peut s'il n'a pas de compte en crée un. Il peut ensuite se connecter à son espace client.
 Une fois connecté il peut avoir accès à la liste de voitures en stock. Il peut aussi rechercher une voiture en entrant sa référence ou son nom puis acheter le modèle dans la couleur choisie et en quantité choisie (dans la limite du nombre en stock).
+Le client peux aussi avoir accès à son historique d'achat. 
 
 
 
